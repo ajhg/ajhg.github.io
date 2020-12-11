@@ -1,6 +1,8 @@
-i am currently working at [iag-usp](https://www.iag.usp.br/),
-doing research on convolutional and recurrent neural networks
-applied to meteorology
+## Antonio José
 
-please write me at _ag@ime.usp.br_
+currently working at [iag-usp](https://www.iag.usp.br/),\
+with [convolutional](https://en.wikipedia.org/wiki/Convolutional_neural_network) and [recurrent](https://en.wikipedia.org/wiki/Recurrent_neural_network) neural networks\
+applied to [weather forecasting](https://en.wikipedia.org/wiki/Weather_forecasting)
+
+please write me at _ag@ime.usp.br_\
 or find more info at [www.ime.usp.br/~ag](www.ime.usp.br/~ag)
