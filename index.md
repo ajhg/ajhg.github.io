@@ -5,4 +5,4 @@ with [convolutional](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 applied to [weather forecasting](https://en.wikipedia.org/wiki/Weather_forecasting)
 
 please write me at _ag@ime.usp.br_\
-or find more info at [www.ime.usp.br/~ag](www.ime.usp.br/~ag)
+or find more info at [www.ime.usp.br/~ag](https://www.ime.usp.br/~ag/)
